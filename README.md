@@ -23,6 +23,7 @@ wechatAnalyzer requires the following libraries installed:
 - matplotlib
 - wordcloud
 - jieba
+
 For wechat messages, we expect a lot of Chinese characters, which can not be displayed correctly when generating wordcloud plots with default settings in 'wordcloud' package. The default font used by 'wordcloud' package is 'DroidSansMono.ttf', a true type font by Google, that is apache licensed. The solution is to do the following modification:
   1. copy a font file (here just take 'msyh.ttc' as an example, should use your own lisenced font) to the folder of 'wordcloud' module (e.g. 'C:\Python34\Lib\site-packages\wordcloud')
   2. under the same folder, edit 'wordcloud.py' and find the line start with 'FONT_PATH = ', replace 'DroidSansMono.ttf' by 'msyh.ttc' at the end of this line. 
@@ -48,9 +49,20 @@ test.attriplot(data)
 ```python
 test.wordcloudplot_focus(data)
 ```
+Basically, wechatAnalyzer provides two types of wordcloud: focus view wordcloud, and global view wordcloud. For focus view wordcloud, wechatAnalyzer only considers people in the group and takes their IDs as the key words to do the statistics. Therefore, focus view wordcloud plot emphasizes the interaction between people in the group. For global view wordcloud, wechanAnalyzer considers all messages for each person, does tokenization, and then generates wordcloud by using 'wordcloud' module. To do global view wordcloud, use the following command,
+```python
+test.generatedict()
+test.wordcloudplot_all(data,backimage='guitar.png')
+```
+To get a better tokenization, wechatAnalyzer will take each people ID as a one 'word' and save into customized dictionary (test.generatedict()). If it failed to generate user dictionary, the default dictionary will be loaded but the tokenization could be bad.
+
 <img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/focus%20wordcloud.png" width="400">
 
 <img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/all%20wordcloud.png" width="400">
 
+In addition, 
+
+## NEXT
+People may use nicknames a lot during easy chat, especially for classmate groups. wechatAnalyzer will provide a way to load nickname set.
 
 
