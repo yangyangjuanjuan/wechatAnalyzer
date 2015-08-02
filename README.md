@@ -28,7 +28,25 @@ For wechat messages, we expect a lot of Chinese characters, which can not be dis
   2. under the same folder, edit 'wordcloud.py' and find the line start with 'FONT_PATH = ', replace 'DroidSansMono.ttf' by 'msyh.ttc' at the end of this line. 
 
 ## EXAMPLES
-As an exmpale, 'test.xlsx' file stores a group's wechat messages. iPhone wechat messages can be exported by a tool named 'Tongbu Assistant' (Chinese name: 同步助手). 
+As an exmpale, 'test.xlsx' file stores a group's wechat messages. iPhone wechat messages can be exported by a tool named 'Tongbu Assistant' (Chinese name: 同步助手). To be noted, exported wechat messages must be saved as a .xlsx file with the exact format.
 
-To be noted, exported wechat messages must be saved as a .xlsx file with the exact format.
+1. wechatAnalyzer generates a plot to show which clock is the hottest one with most messages happening. 
+```python
+test.clockheat(data)
+```
+This command will generate a distribution plot showing how many messages happened on each hour, as follows
+<img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/clockheatmap.png" width="500">
+
+2. wechatAnalyzer can provide interesting plot to rank pre-defined index for each person. Pre-defined index include: '花痴', '色', '八卦', '红包', '真相党', '龅牙', '求约'.
+```python
+test.relationship(data)
+test.attriplot(data)
+```
+<img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/index.PNG" width="200">
+
+3. wechatAnalyzer provides different types of wordcloud plots for each person in the group.
+```python
+test.wordcloudplot_focus(data)
+```
+
 
