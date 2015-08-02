@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Example of creating a radar chart
+creating a radar chart
 """
 import numpy as np
 
