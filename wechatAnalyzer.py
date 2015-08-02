@@ -19,7 +19,7 @@ from radar_plot import *
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 class wechatAnalyzer(object):
-    """wechatAnalyzer object for analyzing wechat historical messages.
+    """wechatAnalyzer object for analyzing wechat messages.
 
     Parameters
     ----------
