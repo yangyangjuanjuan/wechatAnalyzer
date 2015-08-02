@@ -48,5 +48,9 @@ test.attriplot(data)
 ```python
 test.wordcloudplot_focus(data)
 ```
+<img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/focus%20wordcloud.png" width="400">
+
+<img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/all%20wordcloud.png" width="400">
+
 
 
