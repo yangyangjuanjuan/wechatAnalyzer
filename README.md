@@ -60,7 +60,9 @@ To get a better tokenization, wechatAnalyzer will take each people ID as a one '
 
 <img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/all%20wordcloud.png" width="400">
 
-In addition, 
+In addition, a file named 'relationship.csv' will be generated to indicate the interaction between people in the group. It can be easily used to be loaded by Gephi, which is a network visualization software, and then generate a network like the following,
+
+<img src="https://github.com/yangyangjuanjuan/wechatAnalyzer/blob/master/example/network.png" width="400">
 
 ## NEXT
 People may use nicknames a lot during easy chat, especially for classmate groups. wechatAnalyzer will provide a way to load nickname set.
