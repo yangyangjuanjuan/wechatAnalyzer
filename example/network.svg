@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="941px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-248 -270 545 487" height="841px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="14.0"
+              d="M 247.185013,74.771027 C 202.088669,121.178635 64.832756,123.145508 18.425150,78.049171"
+              class="宁静致远 胡一刀（豪）" stroke-opacity="1.0" stroke="#b07382"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 247.185013,74.771027 C 162.876694,37.412449 92.452072,-145.087921 129.810638,-229.396240"
+              class="宁静致远 胡神" stroke-opacity="1.0" stroke="#d747a0"/>
+        <path fill="none" stroke-width="14.0"
+              d="M 247.185013,74.771027 C 190.250381,81.167542 95.253677,5.360394 88.857155,-51.574234"
+              class="宁静致远 钟点工" stroke-opacity="1.0" stroke="#d282ac"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 247.185013,74.771027 C 150.890884,122.561272 -65.235641,49.805466 -113.025887,-46.488655"
+              class="宁静致远 扛的住" stroke-opacity="1.0" stroke="#9f6b6d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 247.185013,74.771027 C 140.612305,90.025696 -42.128727,-46.951355 -57.383396,-153.524063"
+              class="宁静致远 琰" stroke-opacity="1.0" stroke="#c17a97"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 247.185013,74.771027 C 146.733368,163.038193 -136.344803,144.761490 -224.611969,44.309845"
+              class="宁静致远 全全之心" stroke-opacity="1.0" stroke="#d282ac"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 247.185013,74.771027 C 225.001389,146.150726 84.656425,219.944824 13.276726,197.761200"
+              class="宁静致远 点点滴滴" stroke-opacity="1.0" stroke="#c17a97"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 129.810638,-229.396240 C 169.022614,-145.630066 102.191330,38.837189 18.425150,78.049171"
+              class="胡神 胡一刀（豪）" stroke-opacity="1.0" stroke="#b89e97"/>
+        <path fill="none" stroke-width="16.0"
+              d="M 129.810638,-229.396240 C 214.118973,-192.037659 284.543610,-9.537304 247.185013,74.771027"
+              class="胡神 宁静致远" stroke-opacity="1.0" stroke="#d747a0"/>
+        <path fill="none" stroke-width="11.0"
+              d="M 129.810638,-229.396240 C 157.184341,-185.641129 132.612259,-78.947945 88.857155,-51.574234"
+              class="胡神 钟点工" stroke-opacity="1.0" stroke="#daadc1"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 129.810638,-229.396240 C 117.824852,-144.247421 -27.877060,-34.502869 -113.025887,-46.488655"
+              class="胡神 扛的住" stroke-opacity="1.0" stroke="#a79782"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 129.810638,-229.396240 C 107.546272,-176.782990 -4.770156,-131.259705 -57.383396,-153.524063"
+              class="胡神 琰" stroke-opacity="1.0" stroke="#c9a6ac"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 129.810638,-229.396240 C 113.667328,-103.770508 -98.986237,60.453152 -224.611969,44.309845"
+              class="胡神 全全之心" stroke-opacity="1.0" stroke="#daadc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 129.810638,-229.396240 C 191.935349,-120.657974 122.014999,135.636490 13.276726,197.761200"
+              class="胡神 点点滴滴" stroke-opacity="1.0" stroke="#c9a6ac"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 88.857155,-51.574234 C 145.791779,-57.970753 240.788498,17.836399 247.185013,74.771027"
+              class="钟点工 宁静致远" stroke-opacity="1.0" stroke="#d282ac"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -57.383396,-153.524063 C 49.189312,-168.778732 231.930359,-31.801682 247.185013,74.771027"
+              class="琰 宁静致远" stroke-opacity="1.0" stroke="#c17a97"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -57.383396,-153.524063 C -35.119026,-206.137299 77.197395,-251.660614 129.810638,-229.396240"
+              class="琰 胡神" stroke-opacity="1.0" stroke="#c9a6ac"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -57.383396,-153.524063 C -7.745319,-162.382202 79.999008,-101.212311 88.857155,-51.574234"
+              class="琰 钟点工" stroke-opacity="1.0" stroke="#c4e0b8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -224.611969,44.309845 C -181.094971,-37.560795 6.986515,-95.091248 88.857155,-51.574234"
+              class="全全之心 钟点工" stroke-opacity="1.0" stroke="#d5e8cd"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -224.611969,44.309845 C -220.454453,3.832928 -153.502808,-50.646172 -113.025887,-46.488655"
+              class="全全之心 扛的住" stroke-opacity="1.0" stroke="#a2d18e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -224.611969,44.309845 C -185.188416,21.639009 -92.046852,46.768074 -69.376022,86.191620"
+              class="全全之心 静儿" stroke-opacity="1.0" stroke="#a2d18e"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 13.276726,197.761200 C 35.460350,126.381500 175.805313,52.587402 247.185013,74.771027"
+              class="点点滴滴 宁静致远" stroke-opacity="1.0" stroke="#c17a97"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.276726,197.761200 C -48.847980,89.022934 21.072372,-167.271530 129.810638,-229.396240"
+              class="点点滴滴 胡神" stroke-opacity="1.0" stroke="#c9a6ac"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 13.276726,197.761200 C -21.474276,132.778015 23.873978,-16.823233 88.857155,-51.574234"
+              class="点点滴滴 钟点工" stroke-opacity="1.0" stroke="#c4e0b8"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -69.376022,86.191620 C -53.444279,67.002899 -0.763574,62.117424 18.425150,78.049171"
+              class="静儿 胡一刀（豪）" stroke-opacity="1.0" stroke="#80c264"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -69.376022,86.191620 C -8.347935,20.595295 181.588684,13.742939 247.185013,74.771027"
+              class="静儿 宁静致远" stroke-opacity="1.0" stroke="#9f6b6d"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -33.157410,-0.099724 C -7.211120,5.213544 23.738419,52.102882 18.425150,78.049171"
+              class="杨家将 胡一刀（豪）" stroke-opacity="1.0" stroke="#6fbb4f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -33.157410,-0.099724 C -62.566414,47.073105 -177.439133,73.718849 -224.611969,44.309845"
+              class="杨家将 全全之心" stroke-opacity="1.0" stroke="#91ca79"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#91ca79" r="14.8" cx="18.42515"
+                class="胡一刀（豪）" cy="78.04917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d01c8b" r="50.0" cx="247.18501"
+                class="宁静致远" cy="74.77103" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df73b6" r="41.2" cx="129.81064"
+                class="胡神" cy="-229.39624" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d5e8cd" r="23.6" cx="88.857155"
+                class="钟点工" cy="-51.574234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6fbb4f" r="10.4" cx="-113.02589"
+                class="扛的住" cy="-46.488655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3d9a3" r="19.2" cx="-57.383396"
+                class="琰" cy="-153.52406" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d5e8cd" r="23.6" cx="-224.61197"
+                class="全全之心" cy="44.309845" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b3d9a3" r="19.2" cx="13.276726"
+                class="点点滴滴" cy="197.7612" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6fbb4f" r="10.4" cx="-69.37602"
+                class="静儿" cy="86.19162" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4dac26" r="6.0" cx="-33.15741"
+                class="杨家将" cy="-0.099724025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="15" x="18.42515" y="81.53184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="胡一刀（豪）">
+            胡一刀（豪）
+        </text>
+        <text font-size="50" x="247.18501" y="86.331085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="宁静致远">
+            宁静致远
+        </text>
+        <text font-size="41" x="129.81064" y="-219.83691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="胡神">
+            胡神
+        </text>
+        <text font-size="24" x="88.857155" y="-46.107437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="钟点工">
+            钟点工
+        </text>
+        <text font-size="10" x="-113.02589" y="-44.166878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="扛的住">
+            扛的住
+        </text>
+        <text font-size="19" x="-57.383396" y="-149.16371" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="琰">
+            琰
+        </text>
+        <text font-size="24" x="-224.61197" y="49.729767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="全全之心">
+            全全之心
+        </text>
+        <text font-size="19" x="13.276726" y="202.1401" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="点点滴滴">
+            点点滴滴
+        </text>
+        <text font-size="10" x="-69.37602" y="88.49631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="静儿">
+            静儿
+        </text>
+        <text font-size="6" x="-33.15741" y="1.2992017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Monospaced" class="杨家将">
+            杨家将
+        </text>
+    </g>
+</svg>
